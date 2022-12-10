@@ -1,5 +1,5 @@
 # __Nastassia Patapchuk__
-================================================
+====
 
 ## PROFILE:
 I'm a SAP FI consultant with 3+ years of experience.  
@@ -32,9 +32,9 @@ for (let strCount = 1; strCount <= 5; strCount ++>) {
 }
 ```
 ## CONTACTS:
-*__Discord__: Nastassia
-*__E-mail__: a.potapchukk@gmail.com
-*__Phone__: +375(29)822-28-06
+* __Discord__: Nastassia  
+* __E-mail__: a.potapchukk@gmail.com  
+* __Phone__: +375(29)822-28-06
 
 ## LANGUAGES:
 Russian - native  
