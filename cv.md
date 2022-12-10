@@ -1,5 +1,6 @@
 # __Nastassia Patapchuk__
-====
+
+---
 
 ## PROFILE:
 I'm a SAP FI consultant with 3+ years of experience.  
