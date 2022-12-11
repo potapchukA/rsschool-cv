@@ -23,7 +23,7 @@ Belarusian State University of Informatics and Radioelectronics 2015-2019
 ```
 let num = 1;
 let result = '';
-for (let strCount = 1; strCount <= 5; strCount ++>) {
+for (let strCount = 1; strCount <= 5; strCount++) {
     for (let x = 1; x <= 20; x++) {
         result = `${result}${num.toString().padStart(2, '0')}_`;
         num++;
