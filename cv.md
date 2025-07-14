@@ -3,8 +3,8 @@
 ---
 
 ## PROFILE:
-I'm a SAP FI consultant with 5+ years of experience.  
-But I have spent the last months developing my skills as ___Frontend developer___. 
+I'm a SAP FI consultant with 5+ years of experience.
+But I have spent the last months developing my skills as ___Frontend developer___.
 
 ## SKILLS:
 * JS video courses on YouTube
@@ -13,8 +13,8 @@ But I have spent the last months developing my skills as ___Frontend developer__
 * CSS, HTML, HTML5, Git
 
 ## WORK EXPERIENCE:
-No commercial experience with JS yet.  
-_ABAP development and testing is about 3 years._
+No commercial experience with JS yet.
+_ABAP development and testing is about 1 year._
 
 ## EDUCATION HISTORY:
 Belarusian State University of Informatics and Radioelectronics 2015-2019
@@ -33,10 +33,9 @@ for (let strCount = 1; strCount <= 5; strCount++) {
 }
 ```
 ## CONTACTS:
-* __Discord__: Nastassia (nastassia1237)  
-* __E-mail__: a.potapchukk@gmail.com  
-* __Phone__: +375(29)822-28-06
+* __Discord__: Nastassia
+* __E-mail__: a.potapchukk@gmail.com
 
 ## LANGUAGES:
-Russian - native  
-English - B1/B2
+Russian - native
+English - B1
