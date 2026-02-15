@@ -11,6 +11,13 @@
 
   body {
     background-color:rgb(229, 228, 239);
+    height: auto;
+    margin: 0 auto;
+    width:clamp(
+        984px,
+        calc(984px + 456*calc(100vw - 1025px)/(1920 - 1025)),
+        1440px
+    );
   }
 
 
